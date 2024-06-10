@@ -1,0 +1,952 @@
+{
+  "Header": [
+    {
+      "id": 1,
+      "url": "/",
+      "title": "Home",
+      "subTitle": true,
+      "subMenu": [
+        {
+          "id": 1,
+          "title": "file"
+        },
+        {
+          "id": 2,
+          "title": "data"
+        },
+        {
+          "id": 3,
+          "title": "content"
+        },
+        {
+          "id": 4,
+          "title": "detail"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "/about",
+      "title": "About"
+    },
+    {
+      "id": 3,
+      "url": "/service",
+      "title": "Service"
+    },
+    {
+      "id": 4,
+      "url": "/contact",
+      "title": "Contact"
+    },
+    {
+      "id": 5,
+      "url": "/content",
+      "title": "Content"
+    }
+  ],
+  "Content": [
+    {
+      "id": 1,
+      "img": "https://st2.depositphotos.com/1579454/10057/i/450/depositphotos_100579796-stock-photo-machine-code-languages.jpg",
+      "title": "PHP DATA"
+    },
+    {
+      "id": 2,
+      "img": "https://www.cdotrends.com/sites/default/files/2024-04/istock-1485025696.jpg",
+      "title": "HTML DATA"
+    },
+    {
+      "id": 3,
+      "img": "https://cdn.pixabay.com/photo/2018/12/10/02/14/manhattan-3866140_640.jpg",
+      "title": "JAVASCRIPT DATA"
+    }
+  ],
+  "Accordian": [
+    {
+      "id": 1,
+      "title": "JavaScript Introduction",
+      "paragraph": "JavaScript is the world's most popular programming language.JavaScript is the programming language of the Web.JavaScript is easy to learn.This tutorial will teach you JavaScript from basic to advanced.",
+      "img": "https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"
+    },
+    {
+      "id": 2,
+      "title": "React Introduction",
+      "paragraph": "React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js.",
+      "img": "https://logos-world.net/wp-content/uploads/2023/08/React-Emblem-500x281.png"
+    },
+    {
+      "id": 3,
+      "title": "Next Introduction",
+      "paragraph": "Next.js is an open-source web development framework created by the private company Vercel providing React-based web applications with server-side rendering and static website generation",
+      "img": "https://www.pngplay.com/wp-content/uploads/3/NeXT-Logo-Background-PNG-Image.png"
+    },
+    {
+      "id": 4,
+      "title": "Node Introduction",
+      "paragraph": "Node.js is a cross-platform, open-source JavaScript runtime environment that can run on Windows, Linux, Unix, macOS, and more. Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting.",
+      "img": "https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"
+    },
+    {
+      "id": 5,
+      "title": "Express Introduction",
+      "paragraph": "Express.js, or simply Express, is a back end web application framework for building RESTful APIs with Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js",
+      "img": "https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"
+    }
+  ],
+  "Tab": [
+    {
+      "id": 1,
+      "title": "HTML",
+      "paragraph": "HyperText Markup Language is the standard markup language for documents designed to be displayed in a web browser. It defines the content and structure of web content. It is often assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.",
+      "img": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/09/HTML-Effects-Featured.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5"
+    },
+
+    {
+      "id": 2,
+      "title": "CSS",
+      "paragraph": "Cascading Style Sheets is a style sheet language used for specifying the presentation and styling of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+      "img": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Box_Sizing.jpg"
+    },
+    {
+      "id": 3,
+      "title": "JAVASCRIPT",
+      "paragraph": "JavaScript, often abbreviated as JS, is a programming language and core technology of the Web, alongside HTML and CSS. 99% of websites use JavaScript on the client side for webpage behavior. Web browsers have a dedicated JavaScript engine that executes the client code",
+      "img": "https://cache.careers360.mobi/media/article_images/2022/11/18/JS-Full-Form.webp"
+    },
+    {
+      "id": 4,
+      "title": "REACT",
+      "paragraph": "React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js.",
+      "img": "https://blog.logrocket.com/wp-content/uploads/2023/07/complete-guide-react-native-web.png"
+    },
+    {
+      "id": 5,
+      "title": "NEXT",
+      "paragraph": "Next.js is an open-source web development framework created by the private company Vercel providing React-based web applications with server-side rendering and static website generation.",
+      "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230202143636/NEXT-js-tutorial-1.png"
+    },
+    {
+      "id": 6,
+      "title": "NODE",
+      "paragraph": "Node.js is a cross-platform, open-source JavaScript runtime environment that can run on Windows, Linux, Unix, macOS, and more. Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting.",
+      "img": "https://www.shutterstock.com/shutterstock/photos/1902674860/display_1500/stock-photo-node-js-inscription-against-laptop-and-code-background-learn-node-programming-language-computer-1902674860.jpg"
+    },
+    {
+      "id": 7,
+      "title": "EXPRESS",
+      "paragraph": "Express.js, or simply Express, is a back end web application framework for building RESTful APIs with Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js",
+      "img": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*J47nGcBwnjcMeFA-v5LmMw.png"
+    },
+    {
+      "id": 8,
+      "title": "MONGODB",
+      "paragraph": "HyperText Markup Language is the standard markup language for documents designed to be displayed in a web browser. It defines the content and structure of web content. It is often assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.",
+      "img": "https://img2.helpnetsecurity.com/posts2023/mongodb-650.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "shortUrl": "/html/introduction/news/iran-israel-conflict-2024-explained-origins-cyber-attacks-assassinations-132884407.html",
+      "data": {
+        "id": 1,
+        "category": {
+          "id": 1,
+          "displayName": "Html Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/html/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "HTML is the standard markup language for creating Web pages.HTML describes the structure of a Web page HTML elements tell the browser how to display the content HTML consists of a series of elements",
+          "slug": "HTML is easy to learn - You will enjoy it!",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2018/11/what-is-html-3.webp",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/css/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 2,
+        "category": {
+          "id": 2,
+          "displayName": "Css Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/css/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "CSS is the language we use to style a Web page.CSS stands for Cascading Style Sheets CSS describes how HTML elements are to be displayed on screen, paper, or in other media CSS saves a lot of work. It can control the layout of multiple web pages all at once",
+          "slug": "CSS saves a lot of work",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8-650-80.jpg.webp",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/html/introduction/news/iran-israel-conflict-2024-explained-origins-cyber-attacks-assassinations-132884407.html",
+      "data": {
+        "id": 1,
+        "category": {
+          "id": 1,
+          "displayName": "Html Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/html/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "HTML is the standard markup language for creating Web pages.HTML describes the structure of a Web page HTML elements tell the browser how to display the content HTML consists of a series of elements",
+          "slug": "HTML is easy to learn - You will enjoy it!",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://assets-global.website-files.com/60ef088dd8fef99352abb434/650d715703204e7241295dea_html%20codes%20list.webp",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/css/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 2,
+        "category": {
+          "id": 2,
+          "displayName": "Css Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/css/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "CSS is the language we use to style a Web page.CSS stands for Cascading Style Sheets CSS describes how HTML elements are to be displayed on screen, paper, or in other media CSS saves a lot of work. It can control the layout of multiple web pages all at once",
+          "slug": "CSS saves a lot of work",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8-650-80.jpg.webp",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/js/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 3,
+        "category": {
+          "id": 3,
+          "displayName": "Js Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/js/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "JavaScript is the world's most popular programming language.JavaScript is the programming language of the Web.JavaScript accepts both double and single quotes JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.",
+          "slug": "JavaScript is easy to learn.",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://t3.ftcdn.net/jpg/03/86/45/96/240_F_386459614_7JRoaj5LBSbum74i1LXf3oaoMnxQwJdu.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/css/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 2,
+        "category": {
+          "id": 2,
+          "displayName": "Css Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/css/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "CSS is the language we use to style a Web page.CSS stands for Cascading Style Sheets CSS describes how HTML elements are to be displayed on screen, paper, or in other media CSS saves a lot of work. It can control the layout of multiple web pages all at once",
+          "slug": "CSS saves a lot of work",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8-650-80.jpg.webp",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/js/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 3,
+        "category": {
+          "id": 3,
+          "displayName": "Js Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/js/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "JavaScript is the world's most popular programming language.JavaScript is the programming language of the Web.JavaScript accepts both double and single quotes JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.",
+          "slug": "JavaScript is easy to learn.",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://t3.ftcdn.net/jpg/03/86/45/96/240_F_386459614_7JRoaj5LBSbum74i1LXf3oaoMnxQwJdu.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/html/introduction/news/iran-israel-conflict-2024-explained-origins-cyber-attacks-assassinations-132884407.html",
+      "data": {
+        "id": 1,
+        "category": {
+          "id": 1,
+          "displayName": "Html Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/html/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "HTML is the standard markup language for creating Web pages.HTML describes the structure of a Web page HTML elements tell the browser how to display the content HTML consists of a series of elements",
+          "slug": "HTML is easy to learn - You will enjoy it!",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2018/11/what-is-html-3.webp",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/js/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 3,
+        "category": {
+          "id": 3,
+          "displayName": "Js Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/js/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "JavaScript is the world's most popular programming language.JavaScript is the programming language of the Web.JavaScript accepts both double and single quotes JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.",
+          "slug": "JavaScript is easy to learn.",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://t3.ftcdn.net/jpg/03/86/45/96/240_F_386459614_7JRoaj5LBSbum74i1LXf3oaoMnxQwJdu.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/css/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 2,
+        "category": {
+          "id": 2,
+          "displayName": "Css Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/css/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "CSS is the language we use to style a Web page.CSS stands for Cascading Style Sheets CSS describes how HTML elements are to be displayed on screen, paper, or in other media CSS saves a lot of work. It can control the layout of multiple web pages all at once",
+          "slug": "CSS saves a lot of work",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8-650-80.jpg.webp",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/js/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 3,
+        "category": {
+          "id": 3,
+          "displayName": "Js Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/js/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "JavaScript is the world's most popular programming language.JavaScript is the programming language of the Web.JavaScript accepts both double and single quotes JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.",
+          "slug": "JavaScript is easy to learn.",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://t3.ftcdn.net/jpg/03/86/45/96/240_F_386459614_7JRoaj5LBSbum74i1LXf3oaoMnxQwJdu.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/react/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 4,
+        "category": {
+          "id": 4,
+          "displayName": "React Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/react/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "React is a JavaScript library for building user interfaces.React is used to build single-page applications.React allows us to create reusable UI components.React.JS was first used in 2011 for Facebook's Newsfeed feature.Facebook Software Engineer, Jordan Walke, created it.",
+          "slug": "React only changes what needs to be changed!",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://kinsta.com/wp-content/uploads/2023/04/react-must-be-in-scope-when-using-jsx-1024x512.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/js/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 3,
+        "category": {
+          "id": 3,
+          "displayName": "Js Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/js/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "JavaScript is the world's most popular programming language.JavaScript is the programming language of the Web.JavaScript accepts both double and single quotes JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.",
+          "slug": "JavaScript is easy to learn.",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://t3.ftcdn.net/jpg/03/86/45/96/240_F_386459614_7JRoaj5LBSbum74i1LXf3oaoMnxQwJdu.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/react/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 4,
+        "category": {
+          "id": 4,
+          "displayName": "React Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/react/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "React is a JavaScript library for building user interfaces.React is used to build single-page applications.React allows us to create reusable UI components.React.JS was first used in 2011 for Facebook's Newsfeed feature.Facebook Software Engineer, Jordan Walke, created it.",
+          "slug": "React only changes what needs to be changed!",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://kinsta.com/wp-content/uploads/2023/04/react-must-be-in-scope-when-using-jsx-1024x512.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/css/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 2,
+        "category": {
+          "id": 2,
+          "displayName": "Css Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/css/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "CSS is the language we use to style a Web page.CSS stands for Cascading Style Sheets CSS describes how HTML elements are to be displayed on screen, paper, or in other media CSS saves a lot of work. It can control the layout of multiple web pages all at once",
+          "slug": "CSS saves a lot of work",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8-650-80.jpg.webp",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/react/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 4,
+        "category": {
+          "id": 4,
+          "displayName": "React Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/react/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "React is a JavaScript library for building user interfaces.React is used to build single-page applications.React allows us to create reusable UI components.React.JS was first used in 2011 for Facebook's Newsfeed feature.Facebook Software Engineer, Jordan Walke, created it.",
+          "slug": "React only changes what needs to be changed!",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://kinsta.com/wp-content/uploads/2023/04/react-must-be-in-scope-when-using-jsx-1024x512.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/html/introduction/news/iran-israel-conflict-2024-explained-origins-cyber-attacks-assassinations-132884407.html",
+      "data": {
+        "id": 1,
+        "category": {
+          "id": 1,
+          "displayName": "Html Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/html/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "HTML is the standard markup language for creating Web pages.HTML describes the structure of a Web page HTML elements tell the browser how to display the content HTML consists of a series of elements",
+          "slug": "HTML is easy to learn - You will enjoy it!",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://techstory.in/wp-content/uploads/2021/10/635de980-586d-11ea-9220-1a3211239c30-768x384.png",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/react/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 4,
+        "category": {
+          "id": 4,
+          "displayName": "React Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/react/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "React is a JavaScript library for building user interfaces.React is used to build single-page applications.React allows us to create reusable UI components.React.JS was first used in 2011 for Facebook's Newsfeed feature.Facebook Software Engineer, Jordan Walke, created it.",
+          "slug": "React only changes what needs to be changed!",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://kinsta.com/wp-content/uploads/2023/04/react-must-be-in-scope-when-using-jsx-1024x512.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/css/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 2,
+        "category": {
+          "id": 2,
+          "displayName": "Css Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/css/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "CSS is the language we use to style a Web page.CSS stands for Cascading Style Sheets CSS describes how HTML elements are to be displayed on screen, paper, or in other media CSS saves a lot of work. It can control the layout of multiple web pages all at once",
+          "slug": "CSS saves a lot of work",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8-650-80.jpg.webp",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/react/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 4,
+        "category": {
+          "id": 4,
+          "displayName": "React Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/react/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "React is a JavaScript library for building user interfaces.React is used to build single-page applications.React allows us to create reusable UI components.React.JS was first used in 2011 for Facebook's Newsfeed feature.Facebook Software Engineer, Jordan Walke, created it.",
+          "slug": "React only changes what needs to be changed!",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://kinsta.com/wp-content/uploads/2023/04/react-must-be-in-scope-when-using-jsx-1024x512.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/js/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 3,
+        "category": {
+          "id": 3,
+          "displayName": "Js Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/js/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "JavaScript is the world's most popular programming language.JavaScript is the programming language of the Web.JavaScript accepts both double and single quotes JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.",
+          "slug": "JavaScript is easy to learn.",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://t3.ftcdn.net/jpg/03/86/45/96/240_F_386459614_7JRoaj5LBSbum74i1LXf3oaoMnxQwJdu.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "shortUrl": "/react/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "data": {
+        "id": 4,
+        "category": {
+          "id": 4,
+          "displayName": "React Introduction",
+          "color": "#0f86f5",
+          "listingUrl": "/react/introduction/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "React is a JavaScript library for building user interfaces.React is used to build single-page applications.React allows us to create reusable UI components.React.JS was first used in 2011 for Facebook's Newsfeed feature.Facebook Software Engineer, Jordan Walke, created it.",
+          "slug": "React only changes what needs to be changed!",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://kinsta.com/wp-content/uploads/2023/04/react-must-be-in-scope-when-using-jsx-1024x512.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "SideData": [
+    {
+      "id": 0,
+      "title": "Intoduction",
+      "listingUrl": "/",
+      "img": "https://cdn.iconscout.com/icon/free/png-512/free-html-3521493-2944937.png?f=webp&w=256"
+    },
+    {
+      "id": 1,
+      "title": "HTML Intoduction",
+      "listingUrl": "/html/introduction/",
+      "img": "https://cdn.iconscout.com/icon/free/png-512/free-html-3521493-2944937.png?f=webp&w=256"
+    },
+    {
+      "id": 2,
+      "title": "CSS Intoduction",
+      "listingUrl": "/css/introduction/",
+      "img": "https://cdn.iconscout.com/icon/free/png-512/free-html-3521493-2944937.png?f=webp&w=256"
+    },
+    {
+      "id": 3,
+      "title": "JS Intoduction",
+      "listingUrl": "/js/introduction/",
+      "img": "https://cdn.iconscout.com/icon/free/png-512/free-html-3521493-2944937.png?f=webp&w=256"
+    },
+    {
+      "id": 4,
+      "title": "React Intoduction",
+      "listingUrl": "/react/introduction/",
+      "img": "https://cdn.iconscout.com/icon/free/png-512/free-html-3521493-2944937.png?f=webp&w=256"
+    }
+  ],
+  "Footer": [
+    {
+      "logo": "http://localhost:3001/static/media/nikhil-logo-removebg-preview.508ea91bf36431e4f2a8.png",
+      "title": "The coding system used in text-marking establishes the purpose for reading a text.",
+      "nav": []
+    },
+    {
+      "logo?": "",
+      "title": "Pages",
+      "nav": [
+        {
+          "id": 1,
+          "content": "About Us"
+        },
+        {
+          "id": 2,
+
+          "content": "About Us"
+        },
+        {
+          "id": 3,
+          "title": "Pages",
+          "content": "About Us"
+        },
+        {
+          "id": 4,
+          "title": "Pages",
+          "content": "About Us"
+        },
+        {
+          "id": 5,
+          "title": "Pages",
+          "content": "About Us"
+        }
+      ]
+    },
+
+    {
+      "logo?": "",
+      "title": "Pages",
+      "nav": [
+        {
+          "id": 1,
+          "content": "About Us"
+        },
+        {
+          "id": 2,
+
+          "content": "About Us"
+        },
+        {
+          "id": 3,
+          "title": "Pages",
+          "content": "About Us"
+        },
+        {
+          "id": 4,
+          "title": "Pages",
+          "content": "About Us"
+        },
+        {
+          "id": 5,
+          "title": "Pages",
+          "content": "About Us"
+        }
+      ]
+    },
+    {
+      "logo?": "",
+      "title": "Pages",
+      "nav": [
+        {
+          "id": 1,
+          "content": "About Us"
+        },
+        {
+          "id": 2,
+
+          "content": "About Us"
+        },
+        {
+          "id": 3,
+          "title": "Pages",
+          "content": "About Us"
+        },
+        {
+          "id": 4,
+          "title": "Pages",
+          "content": "About Us"
+        },
+        {
+          "id": 5,
+          "title": "Pages",
+          "content": "About Us"
+        }
+      ]
+    },
+    {
+      "logo?": "",
+      "title": "Pages",
+      "nav": [
+        {
+          "id": 1,
+          "content": "About Us"
+        },
+        {
+          "id": 2,
+
+          "content": "About Us"
+        },
+        {
+          "id": 3,
+          "title": "Pages",
+          "content": "About Us"
+        },
+        {
+          "id": 4,
+          "title": "Pages",
+          "content": "About Us"
+        },
+        {
+          "id": 5,
+          "title": "Pages",
+          "content": "About Us"
+        }
+      ]
+    }
+  ],
+  "HtmlData": [
+    {
+      "shortUrl": "/html/introduction/news/iran-israel-conflict-2024-explained-origins-cyber-attacks-assassinations-132884407.html",
+      "id": 1,
+      "paragraph": "HyperText Markup Language is the standard markup language for documents designed to be displayed in a web browser. It defines the content and structure of web content. It is often assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.Some of the most common HTML elements that make up a webpage are text elements. All the text you read on this website, for example, whether it's the titles at the top of the page, the section headers, or this very text, is made from HTML text elements.",
+      "title": "Html Content"
+    },
+    {
+      "shortUrl": "/css/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "id": 2,
+      "paragraph": "Cascading Style Sheets is a style sheet language used for specifying the presentation and styling of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.CSS is the acronym of “Cascading Style Sheets”. CSS is a computer language for laying out and structuring web pages (HTML or XML). This language contains coding elements and is composed of these “cascading style sheets” which are equally called CSS files (. css).",
+      "title": "Css Content"
+    },
+    {
+      "shortUrl": "/js/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "id": 3,
+      "paragraph": "JavaScript, often abbreviated as JS, is a programming language and core technology of the Web, alongside HTML and CSS. 99% of websites use JavaScript on the client side for webpage behavior. Web browsers have a dedicated JavaScript engine that executes the client code.HTML and CSS are often called markup languages rather than programming languages, because they, at their core, provide markups for documents with very little dynamism.",
+      "title": "Js Content"
+    },
+    {
+      "shortUrl": "/js/introduction/news/bjp-manifesto-2019-analysis-pm-modi-promises-ayodhya-ram-mandir-caa-article-370-132879564.html",
+      "id": 4,
+      "paragraph": "React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js.React is aptly named because: It reacts quickly to changes without reloading the whole page. It uses the virtual DOM to efficiently update parts of a webpage. It's built around components that react and update",
+      "title": "React Content"
+    }
+  ]
+}

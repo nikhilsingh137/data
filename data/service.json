@@ -1,0 +1,104 @@
+{
+  "service": [
+    {
+      "title": "Advantages of A Corporate Website",
+      "Data": [
+        {
+          "id": 1,
+          "img": "https://previews.123rf.com/images/eljanstock/eljanstock1811/eljanstock181112390/112441176-image-vector-icon-isolated-on-transparent-background-image-transparency-logo-concept.jpg",
+          "title": "AI/ML",
+          "paragraph": "Creative mantra is here to help you create a strong and visible presence online. We design based on a keen understanding of your business, goals, and ideas.",
+          "button": "Learn More"
+        }
+      ]
+    },
+    {
+      "Data": [
+        {
+          "id": 2,
+          "img": "https://logowik.com/content/uploads/images/aws-api-gateway.jpg",
+          "title": "AI/ML",
+          "paragraph": "Creative mantra is here to help you create a strong and visible presence online. We design based on a keen understanding of your business, goals, and ideas.",
+          "button": "Learn More"
+        }
+      ]
+    },
+    {
+      "Data": [
+        {
+          "id": 3,
+          "img": "https://logowik.com/content/uploads/images/aws-api-gateway.jpg",
+          "title": "AI/ML",
+          "paragraph": "Creative mantra is here to help you create a strong and visible presence online. We design based on a keen understanding of your business, goals, and ideas.",
+          "button": "Learn More"
+        }
+      ]
+    },
+    {
+      "Data": [
+        {
+          "id": 4,
+          "img": "https://logowik.com/content/uploads/images/aws-api-gateway.jpg",
+          "title": "AI/ML",
+          "paragraph": "Creative mantra is here to help you create a strong and visible presence online. We design based on a keen understanding of your business, goals, and ideas.",
+          "button": "Learn More"
+        }
+      ]
+    },
+    {
+      "Data": [
+        {
+          "id": 5,
+          "img": "https://logowik.com/content/uploads/images/aws-api-gateway.jpg",
+          "title": "AI/ML",
+          "paragraph": "Creative mantra is here to help you create a strong and visible presence online. We design based on a keen understanding of your business, goals, and ideas.",
+          "button": "Learn More"
+        }
+      ]
+    },
+    {
+      "Data": [
+        {
+          "id": 6,
+          "img": "https://logowik.com/content/uploads/images/aws-api-gateway.jpg",
+          "title": "AI/ML",
+          "paragraph": "Creative mantra is here to help you create a strong and visible presence online. We design based on a keen understanding of your business, goals, and ideas.",
+          "button": "Learn More"
+        }
+      ]
+    },
+    {
+      "Data": [
+        {
+          "id": 7,
+          "img": "https://logowik.com/content/uploads/images/aws-api-gateway.jpg",
+          "title": "AI/ML",
+          "paragraph": "Creative mantra is here to help you create a strong and visible presence online. We design based on a keen understanding of your business, goals, and ideas.",
+          "button": "Learn More"
+        }
+      ]
+    },
+    {
+      "Data": [
+        {
+          "id": 8,
+          "img": "https://logowik.com/content/uploads/images/aws-api-gateway.jpg",
+          "title": "AI/ML",
+          "paragraph": "Creative mantra is here to help you create a strong and visible presence online. We design based on a keen understanding of your business, goals, and ideas.",
+          "button": "Learn More"
+        }
+      ]
+    },
+    {
+      "Data": [
+        {
+          "id": 9,
+          "img": "https://logowik.com/content/uploads/images/aws-api-gateway.jpg",
+          "title": "AI/ML",
+          "paragraph": "Creative mantra is here to help you create a strong and visible presence online. We design based on a keen understanding of your business, goals, and ideas.",
+          "button": "Learn More"
+        }
+      ]
+    }
+  ]
+}
